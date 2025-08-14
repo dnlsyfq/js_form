@@ -16,3 +16,13 @@ if(check == true){
 ```
 
 * prompt("str " ,"place holder" )
+
+---
+
+# HTML
+
+```
+<form>
+
+</form>
+```
